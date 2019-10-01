@@ -1,1 +1,1 @@
-# TipCalc
+# TipCalculator
